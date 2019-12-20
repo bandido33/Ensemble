@@ -1,4 +1,6 @@
-## NEWA project configuration of the Ensembles
+# NEWA project configuration of the Ensembles
+
+Please note that most setups use **modified MYNN**  version available in https://github.com/newa-wind/Mesoscale and documented in [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2682604.svg)](https://doi.org/10.5281/zenodo.2682604).
 
 ## Explanation for the various digits of the sensitivity experiments that refers to the code available in GitHub
 
