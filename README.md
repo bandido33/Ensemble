@@ -13,7 +13,7 @@
 | 7  |  Land Surface Model |  Code as in WRF: Thermal diffusion=1, NOAH=2, RUC=3, CLM4=4, PLX=7 |
 | 8  |   PBL scheme |  Code as in WRF: YSU=1, MYJ=2, QNSE=4, MYNN2=5, MYNN3=6, ACM2=7 |
 |9    | Surface layer |	Code as in WRF: Revised MM5=1, M-O=2, QMSE=4, MYNN=5, P-X=7 |
-|10  |  Modified PBL and surface layer? | no=0, yes=1 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2682604.svg)](https://doi.org/10.5281/zenodo.2682604) |
+|10  |  Modified PBL and surface layer? | no=0, yes=1. The requited modifications are available in https://github.com/newa-wind/Mesoscale and documented in [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2682604.svg)](https://doi.org/10.5281/zenodo.2682604) |
 | 14-15 | Cloud Microphysics    |   Code as in WRF: WSM5=04, Thompson=08, Thompson+aerosol=28 |
 | 16-17 | Convective scheme (D1,D2)	 |    Code as in WRF: No=00, K-F=01, B-M=02, Grell-Devenyi=93 |
 | 18-19 | SW/LW radiation |	 Code as in WRF: CAM=03, RRTMG=04, Fast RRTMG=24 |
